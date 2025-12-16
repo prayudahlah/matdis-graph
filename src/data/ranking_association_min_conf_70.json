@@ -1,0 +1,767 @@
+[
+  {
+    "node a":"(REGENCY TEA PLATE GREEN )",
+    "node b":"(REGENCY TEA PLATE PINK)",
+    "antecedent support":0.0149034749,
+    "consequent support":0.0121235521,
+    "support":0.0108880309,
+    "confidence":0.7305699482,
+    "lift":60.260387446
+  },
+  {
+    "node a":"(REGENCY TEA PLATE PINK)",
+    "node b":"(REGENCY TEA PLATE GREEN )",
+    "antecedent support":0.0121235521,
+    "consequent support":0.0149034749,
+    "support":0.0108880309,
+    "confidence":0.898089172,
+    "lift":60.260387446
+  },
+  {
+    "node a":"(REGENCY TEA PLATE PINK)",
+    "node b":"(REGENCY TEA PLATE ROSES )",
+    "antecedent support":0.0121235521,
+    "consequent support":0.0176447876,
+    "support":0.0105019305,
+    "confidence":0.8662420382,
+    "lift":49.0933671549
+  },
+  {
+    "node a":"(POPPY'S PLAYHOUSE LIVINGROOM )",
+    "node b":"(POPPY'S PLAYHOUSE BEDROOM )",
+    "antecedent support":0.0127413127,
+    "consequent support":0.0164478764,
+    "support":0.0101158301,
+    "confidence":0.7939393939,
+    "lift":48.2700241855
+  },
+  {
+    "node a":"(REGENCY TEA PLATE ROSES )",
+    "node b":"(REGENCY TEA PLATE GREEN )",
+    "antecedent support":0.0176447876,
+    "consequent support":0.0149034749,
+    "support":0.0124324324,
+    "confidence":0.704595186,
+    "lift":47.2772417546
+  },
+  {
+    "node a":"(REGENCY TEA PLATE GREEN )",
+    "node b":"(REGENCY TEA PLATE ROSES )",
+    "antecedent support":0.0149034749,
+    "consequent support":0.0176447876,
+    "support":0.0124324324,
+    "confidence":0.8341968912,
+    "lift":47.2772417546
+  },
+  {
+    "node a":"(POPPY'S PLAYHOUSE LIVINGROOM )",
+    "node b":"(POPPY'S PLAYHOUSE KITCHEN)",
+    "antecedent support":0.0127413127,
+    "consequent support":0.016988417,
+    "support":0.0101544402,
+    "confidence":0.796969697,
+    "lift":46.9125344353
+  },
+  {
+    "node a":"(SET\/6 RED SPOTTY PAPER CUPS, SET\/20 RED RETROSPOT PAPER NAPKINS )",
+    "node b":"(SET\/6 RED SPOTTY PAPER PLATES)",
+    "antecedent support":0.0114285714,
+    "consequent support":0.0203474903,
+    "support":0.0102316602,
+    "confidence":0.8952702703,
+    "lift":43.9990512334
+  },
+  {
+    "node a":"(POPPY'S PLAYHOUSE BEDROOM )",
+    "node b":"(POPPY'S PLAYHOUSE KITCHEN)",
+    "antecedent support":0.0164478764,
+    "consequent support":0.016988417,
+    "support":0.0121235521,
+    "confidence":0.7370892019,
+    "lift":43.3877507469
+  },
+  {
+    "node a":"(POPPY'S PLAYHOUSE KITCHEN)",
+    "node b":"(POPPY'S PLAYHOUSE BEDROOM )",
+    "antecedent support":0.016988417,
+    "consequent support":0.0164478764,
+    "support":0.0121235521,
+    "confidence":0.7136363636,
+    "lift":43.3877507469
+  },
+  {
+    "node a":"(SET\/6 RED SPOTTY PAPER PLATES, SET\/20 RED RETROSPOT PAPER NAPKINS )",
+    "node b":"(SET\/6 RED SPOTTY PAPER CUPS)",
+    "antecedent support":0.0142857143,
+    "consequent support":0.0165250965,
+    "support":0.0102316602,
+    "confidence":0.7162162162,
+    "lift":43.3411214953
+  },
+  {
+    "node a":"(WOODEN TREE CHRISTMAS SCANDINAVIAN)",
+    "node b":"(WOODEN STAR CHRISTMAS SCANDINAVIAN)",
+    "antecedent support":0.0132432432,
+    "consequent support":0.0199227799,
+    "support":0.0108880309,
+    "confidence":0.8221574344,
+    "lift":41.2672045562
+  },
+  {
+    "node a":"(SET\/6 RED SPOTTY PAPER CUPS)",
+    "node b":"(SET\/6 RED SPOTTY PAPER PLATES)",
+    "antecedent support":0.0165250965,
+    "consequent support":0.0203474903,
+    "support":0.0135135135,
+    "confidence":0.8177570093,
+    "lift":40.1895759811
+  },
+  {
+    "node a":"(SMALL MARSHMALLOWS PINK BOWL)",
+    "node b":"(SMALL DOLLY MIX DESIGN ORANGE BOWL)",
+    "antecedent support":0.0168339768,
+    "consequent support":0.0201930502,
+    "support":0.0135135135,
+    "confidence":0.8027522936,
+    "lift":39.7538898732
+  },
+  {
+    "node a":"(WOODEN HEART CHRISTMAS SCANDINAVIAN)",
+    "node b":"(WOODEN STAR CHRISTMAS SCANDINAVIAN)",
+    "antecedent support":0.0208880309,
+    "consequent support":0.0199227799,
+    "support":0.015019305,
+    "confidence":0.719038817,
+    "lift":36.0912894582
+  },
+  {
+    "node a":"(WOODEN STAR CHRISTMAS SCANDINAVIAN)",
+    "node b":"(WOODEN HEART CHRISTMAS SCANDINAVIAN)",
+    "antecedent support":0.0199227799,
+    "consequent support":0.0208880309,
+    "support":0.015019305,
+    "confidence":0.753875969,
+    "lift":36.0912894582
+  },
+  {
+    "node a":"(TOILET METAL SIGN)",
+    "node b":"(BATHROOM METAL SIGN)",
+    "antecedent support":0.0158301158,
+    "consequent support":0.0245559846,
+    "support":0.0113513514,
+    "confidence":0.7170731707,
+    "lift":29.2015646572
+  },
+  {
+    "node a":"(RED RETROSPOT CHARLOTTE BAG, WOODLAND CHARLOTTE BAG, CHARLOTTE BAG SUKI DESIGN)",
+    "node b":"(STRAWBERRY CHARLOTTE BAG)",
+    "antecedent support":0.013011583,
+    "consequent support":0.0283397683,
+    "support":0.0100772201,
+    "confidence":0.7744807122,
+    "lift":27.328406601
+  },
+  {
+    "node a":"(PINK REGENCY TEACUP AND SAUCER, REGENCY CAKESTAND 3 TIER)",
+    "node b":"(GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER )",
+    "antecedent support":0.0155212355,
+    "consequent support":0.0302702703,
+    "support":0.0116988417,
+    "confidence":0.7537313433,
+    "lift":24.9000533049
+  },
+  {
+    "node a":"(RED RETROSPOT CHARLOTTE BAG, STRAWBERRY CHARLOTTE BAG, CHARLOTTE BAG SUKI DESIGN)",
+    "node b":"(WOODLAND CHARLOTTE BAG)",
+    "antecedent support":0.012972973,
+    "consequent support":0.0325482625,
+    "support":0.0100772201,
+    "confidence":0.7767857143,
+    "lift":23.865658363
+  },
+  {
+    "node a":"(GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER , REGENCY CAKESTAND 3 TIER)",
+    "node b":"(PINK REGENCY TEACUP AND SAUCER)",
+    "antecedent support":0.0159073359,
+    "consequent support":0.030965251,
+    "support":0.0116988417,
+    "confidence":0.7354368932,
+    "lift":23.7503934339
+  },
+  {
+    "node a":"(RED RETROSPOT CHARLOTTE BAG, STRAWBERRY CHARLOTTE BAG, WOODLAND CHARLOTTE BAG)",
+    "node b":"(CHARLOTTE BAG SUKI DESIGN)",
+    "antecedent support":0.0126640927,
+    "consequent support":0.0345559846,
+    "support":0.0100772201,
+    "confidence":0.7957317073,
+    "lift":23.0273197983
+  },
+  {
+    "node a":"(GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER )",
+    "node b":"(PINK REGENCY TEACUP AND SAUCER)",
+    "antecedent support":0.0302702703,
+    "consequent support":0.030965251,
+    "support":0.0211969112,
+    "confidence":0.700255102,
+    "lift":22.6142233701
+  },
+  {
+    "node a":"(STRAWBERRY CHARLOTTE BAG, CHARLOTTE BAG SUKI DESIGN)",
+    "node b":"(WOODLAND CHARLOTTE BAG)",
+    "antecedent support":0.0161389961,
+    "consequent support":0.0325482625,
+    "support":0.0117374517,
+    "confidence":0.7272727273,
+    "lift":22.3444408498
+  },
+  {
+    "node a":"(PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER , REGENCY CAKESTAND 3 TIER)",
+    "node b":"(GREEN REGENCY TEACUP AND SAUCER)",
+    "antecedent support":0.013011583,
+    "consequent support":0.0408108108,
+    "support":0.0116988417,
+    "confidence":0.8991097923,
+    "lift":22.0311670957
+  },
+  {
+    "node a":"(PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER )",
+    "node b":"(GREEN REGENCY TEACUP AND SAUCER)",
+    "antecedent support":0.0237065637,
+    "consequent support":0.0408108108,
+    "support":0.0211969112,
+    "confidence":0.8941368078,
+    "lift":21.9093125094
+  },
+  {
+    "node a":"(CHARLOTTE BAG SUKI DESIGN, CHARLOTTE BAG PINK POLKADOT)",
+    "node b":"(WOODLAND CHARLOTTE BAG)",
+    "antecedent support":0.016023166,
+    "consequent support":0.0325482625,
+    "support":0.0113513514,
+    "confidence":0.7084337349,
+    "lift":21.7656390687
+  },
+  {
+    "node a":"(STRAWBERRY CHARLOTTE BAG, WOODLAND CHARLOTTE BAG)",
+    "node b":"(CHARLOTTE BAG SUKI DESIGN)",
+    "antecedent support":0.0157528958,
+    "consequent support":0.0345559846,
+    "support":0.0117374517,
+    "confidence":0.7450980392,
+    "lift":21.5620549896
+  },
+  {
+    "node a":"(WOODLAND CHARLOTTE BAG, CHARLOTTE BAG PINK POLKADOT)",
+    "node b":"(CHARLOTTE BAG SUKI DESIGN)",
+    "antecedent support":0.0153281853,
+    "consequent support":0.0345559846,
+    "support":0.0113513514,
+    "confidence":0.7405541562,
+    "lift":21.4305616143
+  },
+  {
+    "node a":"(STRAWBERRY CHARLOTTE BAG, CHARLOTTE BAG PINK POLKADOT)",
+    "node b":"(RED RETROSPOT CHARLOTTE BAG)",
+    "antecedent support":0.0147490347,
+    "consequent support":0.0405405405,
+    "support":0.0126640927,
+    "confidence":0.8586387435,
+    "lift":21.1797556719
+  },
+  {
+    "node a":"(STRAWBERRY CHARLOTTE BAG, WOODLAND CHARLOTTE BAG, CHARLOTTE BAG SUKI DESIGN)",
+    "node b":"(RED RETROSPOT CHARLOTTE BAG)",
+    "antecedent support":0.0117374517,
+    "consequent support":0.0405405405,
+    "support":0.0100772201,
+    "confidence":0.8585526316,
+    "lift":21.1776315789
+  },
+  {
+    "node a":"(PINK REGENCY TEACUP AND SAUCER, REGENCY CAKESTAND 3 TIER)",
+    "node b":"(GREEN REGENCY TEACUP AND SAUCER)",
+    "antecedent support":0.0155212355,
+    "consequent support":0.0408108108,
+    "support":0.0133590734,
+    "confidence":0.8606965174,
+    "lift":21.0899146651
+  },
+  {
+    "node a":"(STRAWBERRY CHARLOTTE BAG, CHARLOTTE BAG PINK POLKADOT)",
+    "node b":"(CHARLOTTE BAG SUKI DESIGN)",
+    "antecedent support":0.0147490347,
+    "consequent support":0.0345559846,
+    "support":0.0105405405,
+    "confidence":0.7146596859,
+    "lift":20.6812132557
+  },
+  {
+    "node a":"(WOODLAND CHARLOTTE BAG, CHARLOTTE BAG PINK POLKADOT)",
+    "node b":"(RED RETROSPOT CHARLOTTE BAG)",
+    "antecedent support":0.0153281853,
+    "consequent support":0.0405405405,
+    "support":0.0125868726,
+    "confidence":0.8211586902,
+    "lift":20.255247691
+  },
+  {
+    "node a":"(GREEN REGENCY TEACUP AND SAUCER, PINK REGENCY TEACUP AND SAUCER, REGENCY CAKESTAND 3 TIER)",
+    "node b":"(ROSES REGENCY TEACUP AND SAUCER )",
+    "antecedent support":0.0133590734,
+    "consequent support":0.0432432432,
+    "support":0.0116988417,
+    "confidence":0.8757225434,
+    "lift":20.251083815
+  },
+  {
+    "node a":"(GARDENERS KNEELING PAD CUP OF TEA )",
+    "node b":"(GARDENERS KNEELING PAD KEEP CALM )",
+    "antecedent support":0.0295366795,
+    "consequent support":0.0356756757,
+    "support":0.0211969112,
+    "confidence":0.7176470588,
+    "lift":20.1158645276
+  },
+  {
+    "node a":"(SET\/6 RED SPOTTY PAPER CUPS, SET\/6 RED SPOTTY PAPER PLATES)",
+    "node b":"(SET\/20 RED RETROSPOT PAPER NAPKINS )",
+    "antecedent support":0.0135135135,
+    "consequent support":0.0381467181,
+    "support":0.0102316602,
+    "confidence":0.7571428571,
+    "lift":19.8481781377
+  },
+  {
+    "node a":"(STRAWBERRY CHARLOTTE BAG, WOODLAND CHARLOTTE BAG)",
+    "node b":"(RED RETROSPOT CHARLOTTE BAG)",
+    "antecedent support":0.0157528958,
+    "consequent support":0.0405405405,
+    "support":0.0126640927,
+    "confidence":0.8039215686,
+    "lift":19.8300653595
+  },
+  {
+    "node a":"(STRAWBERRY CHARLOTTE BAG, CHARLOTTE BAG SUKI DESIGN)",
+    "node b":"(RED RETROSPOT CHARLOTTE BAG)",
+    "antecedent support":0.0161389961,
+    "consequent support":0.0405405405,
+    "support":0.012972973,
+    "confidence":0.8038277512,
+    "lift":19.8277511962
+  },
+  {
+    "node a":"(CHARLOTTE BAG SUKI DESIGN, CHARLOTTE BAG PINK POLKADOT)",
+    "node b":"(RED RETROSPOT CHARLOTTE BAG)",
+    "antecedent support":0.016023166,
+    "consequent support":0.0405405405,
+    "support":0.0128185328,
+    "confidence":0.8,
+    "lift":19.7333333333
+  },
+  {
+    "node a":"(GREEN REGENCY TEACUP AND SAUCER, PINK REGENCY TEACUP AND SAUCER)",
+    "node b":"(ROSES REGENCY TEACUP AND SAUCER )",
+    "antecedent support":0.0248648649,
+    "consequent support":0.0432432432,
+    "support":0.0211969112,
+    "confidence":0.852484472,
+    "lift":19.7137034161
+  },
+  {
+    "node a":"(PINK REGENCY TEACUP AND SAUCER)",
+    "node b":"(GREEN REGENCY TEACUP AND SAUCER)",
+    "antecedent support":0.030965251,
+    "consequent support":0.0408108108,
+    "support":0.0248648649,
+    "confidence":0.8029925187,
+    "lift":19.6759756239
+  },
+  {
+    "node a":"(PINK REGENCY TEACUP AND SAUCER, REGENCY CAKESTAND 3 TIER)",
+    "node b":"(ROSES REGENCY TEACUP AND SAUCER )",
+    "antecedent support":0.0155212355,
+    "consequent support":0.0432432432,
+    "support":0.013011583,
+    "confidence":0.8383084577,
+    "lift":19.3858830846
+  },
+  {
+    "node a":"(mailout , mailout)",
+    "node b":"(JUMBO BAG APPLES)",
+    "antecedent support":0.0143243243,
+    "consequent support":0.0385714286,
+    "support":0.0104247104,
+    "confidence":0.7277628032,
+    "lift":18.8679245283
+  },
+  {
+    "node a":"(ROSES REGENCY TEACUP AND SAUCER , REGENCY CAKESTAND 3 TIER)",
+    "node b":"(GREEN REGENCY TEACUP AND SAUCER)",
+    "antecedent support":0.0207335907,
+    "consequent support":0.0408108108,
+    "support":0.0159073359,
+    "confidence":0.7672253259,
+    "lift":18.7995609654
+  },
+  {
+    "node a":"(ALARM CLOCK BAKELIKE GREEN, ALARM CLOCK BAKELIKE IVORY)",
+    "node b":"(ALARM CLOCK BAKELIKE RED )",
+    "antecedent support":0.012972973,
+    "consequent support":0.0417374517,
+    "support":0.0100772201,
+    "confidence":0.7767857143,
+    "lift":18.611239593
+  },
+  {
+    "node a":"(CHARLOTTE BAG SUKI DESIGN, LUNCH BAG RED RETROSPOT)",
+    "node b":"(RED RETROSPOT CHARLOTTE BAG)",
+    "antecedent support":0.0134362934,
+    "consequent support":0.0405405405,
+    "support":0.0100772201,
+    "confidence":0.75,
+    "lift":18.5
+  },
+  {
+    "node a":"(SET\/6 RED SPOTTY PAPER PLATES)",
+    "node b":"(SET\/20 RED RETROSPOT PAPER NAPKINS )",
+    "antecedent support":0.0203474903,
+    "consequent support":0.0381467181,
+    "support":0.0142857143,
+    "confidence":0.7020872865,
+    "lift":18.4049197582
+  },
+  {
+    "node a":"(GREEN REGENCY TEACUP AND SAUCER, REGENCY CAKESTAND 3 TIER)",
+    "node b":"(ROSES REGENCY TEACUP AND SAUCER )",
+    "antecedent support":0.02,
+    "consequent support":0.0432432432,
+    "support":0.0159073359,
+    "confidence":0.7953667954,
+    "lift":18.3928571429
+  },
+  {
+    "node a":"(WOODLAND CHARLOTTE BAG, CHARLOTTE BAG SUKI DESIGN)",
+    "node b":"(RED RETROSPOT CHARLOTTE BAG)",
+    "antecedent support":0.0177220077,
+    "consequent support":0.0405405405,
+    "support":0.013011583,
+    "confidence":0.734204793,
+    "lift":18.1103848947
+  },
+  {
+    "node a":"(ALARM CLOCK BAKELIKE GREEN, ALARM CLOCK BAKELIKE PINK)",
+    "node b":"(ALARM CLOCK BAKELIKE RED )",
+    "antecedent support":0.0161776062,
+    "consequent support":0.0417374517,
+    "support":0.0121235521,
+    "confidence":0.7494033413,
+    "lift":17.9551771872
+  },
+  {
+    "node a":"(PINK REGENCY TEACUP AND SAUCER)",
+    "node b":"(ROSES REGENCY TEACUP AND SAUCER )",
+    "antecedent support":0.030965251,
+    "consequent support":0.0432432432,
+    "support":0.0237065637,
+    "confidence":0.7655860349,
+    "lift":17.7041770574
+  },
+  {
+    "node a":"(GREEN REGENCY TEACUP AND SAUCER)",
+    "node b":"(ROSES REGENCY TEACUP AND SAUCER )",
+    "antecedent support":0.0408108108,
+    "consequent support":0.0432432432,
+    "support":0.0302702703,
+    "confidence":0.7417218543,
+    "lift":17.1523178808
+  },
+  {
+    "node a":"(ROSES REGENCY TEACUP AND SAUCER )",
+    "node b":"(GREEN REGENCY TEACUP AND SAUCER)",
+    "antecedent support":0.0432432432,
+    "consequent support":0.0408108108,
+    "support":0.0302702703,
+    "confidence":0.7,
+    "lift":17.1523178808
+  },
+  {
+    "node a":"(DOTCOM POSTAGE, JUMBO BAG WOODLAND ANIMALS)",
+    "node b":"(JUMBO STORAGE BAG SUKI)",
+    "antecedent support":0.0139382239,
+    "consequent support":0.0463706564,
+    "support":0.01003861,
+    "confidence":0.7202216066,
+    "lift":15.5318398103
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO BAG RED RETROSPOT, JUMBO SHOPPER VINTAGE RED PAISLEY)",
+    "node b":"(JUMBO STORAGE BAG SUKI)",
+    "antecedent support":0.0146718147,
+    "consequent support":0.0463706564,
+    "support":0.0103861004,
+    "confidence":0.7078947368,
+    "lift":15.2660063982
+  },
+  {
+    "node a":"(JUMBO SHOPPER VINTAGE RED PAISLEY, JUMBO BAG WOODLAND ANIMALS)",
+    "node b":"(JUMBO STORAGE BAG SUKI)",
+    "antecedent support":0.0150579151,
+    "consequent support":0.0463706564,
+    "support":0.0106177606,
+    "confidence":0.7051282051,
+    "lift":15.2063451397
+  },
+  {
+    "node a":"(LUNCH BAG PINK POLKADOT, LUNCH BAG WOODLAND)",
+    "node b":"(LUNCH BAG RED RETROSPOT)",
+    "antecedent support":0.0154826255,
+    "consequent support":0.0620849421,
+    "support":0.011042471,
+    "confidence":0.7132169576,
+    "lift":11.4877606978
+  },
+  {
+    "node a":"(LUNCH BAG PINK POLKADOT, LUNCH BAG SUKI  DESIGN )",
+    "node b":"(LUNCH BAG RED RETROSPOT)",
+    "antecedent support":0.0182239382,
+    "consequent support":0.0620849421,
+    "support":0.0128957529,
+    "confidence":0.7076271186,
+    "lift":11.3977253563
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO STORAGE BAG SUKI, JUMBO SHOPPER VINTAGE RED PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.011969112,
+    "consequent support":0.0824324324,
+    "support":0.0103861004,
+    "confidence":0.8677419355,
+    "lift":10.5267054469
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO BAG SCANDINAVIAN PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0148262548,
+    "consequent support":0.0824324324,
+    "support":0.0123552124,
+    "confidence":0.8333333333,
+    "lift":10.1092896175
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO SHOPPER VINTAGE RED PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0182239382,
+    "consequent support":0.0824324324,
+    "support":0.0146718147,
+    "confidence":0.8050847458,
+    "lift":9.7666018338
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO STORAGE BAG SUKI)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.02,
+    "consequent support":0.0824324324,
+    "support":0.0160617761,
+    "confidence":0.8030888031,
+    "lift":9.7423887588
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, DOTCOM POSTAGE)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0133204633,
+    "consequent support":0.0824324324,
+    "support":0.0106949807,
+    "confidence":0.8028985507,
+    "lift":9.7400807793
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO BAG STRAWBERRY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0134749035,
+    "consequent support":0.0824324324,
+    "support":0.0108108108,
+    "confidence":0.8022922636,
+    "lift":9.7327258208
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO BAG WOODLAND ANIMALS)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0166409266,
+    "consequent support":0.0824324324,
+    "support":0.0132432432,
+    "confidence":0.7958236659,
+    "lift":9.6542543076
+  },
+  {
+    "node a":"(JUMBO STORAGE BAG SUKI, JUMBO BAG SCANDINAVIAN PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0137837838,
+    "consequent support":0.0824324324,
+    "support":0.010965251,
+    "confidence":0.7955182073,
+    "lift":9.6505487441
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO BAG APPLES)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0142471042,
+    "consequent support":0.0824324324,
+    "support":0.0113127413,
+    "confidence":0.7940379404,
+    "lift":9.6325914079
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO  BAG BAROQUE BLACK WHITE)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0161003861,
+    "consequent support":0.0824324324,
+    "support":0.0126640927,
+    "confidence":0.7865707434,
+    "lift":9.5420057397
+  },
+  {
+    "node a":"(JUMBO BAG SCANDINAVIAN PAISLEY, JUMBO SHOPPER VINTAGE RED PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0156370656,
+    "consequent support":0.0824324324,
+    "support":0.0121621622,
+    "confidence":0.7777777778,
+    "lift":9.4353369763
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO BAG SPACEBOY DESIGN)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0131660232,
+    "consequent support":0.0824324324,
+    "support":0.0102316602,
+    "confidence":0.7771260997,
+    "lift":9.4274313735
+  },
+  {
+    "node a":"(JUMBO BAG PINK POLKADOT, JUMBO BAG PINK VINTAGE PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0147876448,
+    "consequent support":0.0824324324,
+    "support":0.0114671815,
+    "confidence":0.7754569191,
+    "lift":9.4071822968
+  },
+  {
+    "node a":"(DOTCOM POSTAGE, JUMBO SHOPPER VINTAGE RED PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.014015444,
+    "consequent support":0.0824324324,
+    "support":0.0108108108,
+    "confidence":0.7713498623,
+    "lift":9.3573589848
+  },
+  {
+    "node a":"(JUMBO SHOPPER VINTAGE RED PAISLEY, JUMBO BAG WOODLAND ANIMALS)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0150579151,
+    "consequent support":0.0824324324,
+    "support":0.0114671815,
+    "confidence":0.7615384615,
+    "lift":9.2383354351
+  },
+  {
+    "node a":"(DOTCOM POSTAGE, JUMBO BAG WOODLAND ANIMALS)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0139382239,
+    "consequent support":0.0824324324,
+    "support":0.0105405405,
+    "confidence":0.756232687,
+    "lift":9.1739703011
+  },
+  {
+    "node a":"(JUMBO STORAGE BAG SUKI, JUMBO  BAG BAROQUE BLACK WHITE)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0163320463,
+    "consequent support":0.0824324324,
+    "support":0.0123166023,
+    "confidence":0.7541371158,
+    "lift":9.1485486184
+  },
+  {
+    "node a":"(JUMBO STORAGE BAG SUKI, JUMBO BAG APPLES)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0146332046,
+    "consequent support":0.0824324324,
+    "support":0.010965251,
+    "confidence":0.7493403694,
+    "lift":9.0903585795
+  },
+  {
+    "node a":"(JUMBO STORAGE BAG SUKI, JUMBO SHOPPER VINTAGE RED PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0202702703,
+    "consequent support":0.0824324324,
+    "support":0.0150965251,
+    "confidence":0.7447619048,
+    "lift":9.0348165496
+  },
+  {
+    "node a":"(JUMBO  BAG BAROQUE BLACK WHITE, JUMBO SHOPPER VINTAGE RED PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0163706564,
+    "consequent support":0.0824324324,
+    "support":0.0121235521,
+    "confidence":0.7405660377,
+    "lift":8.9839158676
+  },
+  {
+    "node a":"(JUMBO STORAGE BAG SUKI, JUMBO BAG PINK VINTAGE PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0141312741,
+    "consequent support":0.0824324324,
+    "support":0.0103861004,
+    "confidence":0.7349726776,
+    "lift":8.9160619905
+  },
+  {
+    "node a":"(JUMBO STORAGE BAG SUKI, DOTCOM POSTAGE)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0152509653,
+    "consequent support":0.0824324324,
+    "support":0.0111196911,
+    "confidence":0.7291139241,
+    "lift":8.8449885868
+  },
+  {
+    "node a":"(JUMBO STORAGE BAG SUKI, JUMBO BAG WOODLAND ANIMALS)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0173745174,
+    "consequent support":0.0824324324,
+    "support":0.0126640927,
+    "confidence":0.7288888889,
+    "lift":8.8422586521
+  },
+  {
+    "node a":"(JUMBO BAG PINK VINTAGE PAISLEY, JUMBO BAG SCANDINAVIAN PAISLEY)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0154826255,
+    "consequent support":0.0824324324,
+    "support":0.0111196911,
+    "confidence":0.7182044888,
+    "lift":8.712644618
+  },
+  {
+    "node a":"(JUMBO STORAGE BAG SUKI, JUMBO STORAGE BAG SKULLS)",
+    "node b":"(JUMBO BAG RED RETROSPOT)",
+    "antecedent support":0.0141698842,
+    "consequent support":0.0824324324,
+    "support":0.01,
+    "confidence":0.7057220708,
+    "lift":8.5612185643
+  },
+  {
+    "node a":"(CANDLEHOLDER PINK HANGING HEART)",
+    "node b":"(WHITE HANGING HEART T-LIGHT HOLDER)",
+    "antecedent support":0.0186486486,
+    "consequent support":0.0867181467,
+    "support":0.0130888031,
+    "confidence":0.701863354,
+    "lift":8.0936157033
+  }
+]
